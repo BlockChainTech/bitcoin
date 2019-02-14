@@ -17,7 +17,7 @@
 #include <set>
 #include <stdint.h>
 #include <string>
-#include <string.h>
+#include <cstring>
 #include <utility>
 #include <vector>
 

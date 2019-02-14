@@ -13,7 +13,7 @@
 #include <boost/variant/static_visitor.hpp>
 
 #include <assert.h>
-#include <string.h>
+#include <cstring>
 #include <algorithm>
 
 namespace

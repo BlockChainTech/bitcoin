@@ -15,7 +15,7 @@
 #include <limits>
 #include <stdexcept>
 #include <stdint.h>
-#include <string.h>
+#include <cstring>
 #include <string>
 #include <vector>
 

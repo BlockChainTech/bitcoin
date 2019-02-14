@@ -18,7 +18,7 @@
 #include <stdint.h>
 #include <stdio.h>
 #include <string>
-#include <string.h>
+#include <cstring>
 #include <utility>
 #include <vector>
 

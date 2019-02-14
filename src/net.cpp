@@ -22,7 +22,7 @@
 #include <util/strencodings.h>
 
 #ifdef WIN32
-#include <string.h>
+#include <cstring>
 #else
 #include <fcntl.h>
 #endif

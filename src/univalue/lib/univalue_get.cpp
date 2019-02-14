@@ -5,7 +5,7 @@
 
 #include <stdint.h>
 #include <errno.h>
-#include <string.h>
+#include <cstring>
 #include <stdlib.h>
 #include <stdexcept>
 #include <vector>

@@ -6,7 +6,7 @@
 #include <crypto/common.h>
 
 #include <assert.h>
-#include <string.h>
+#include <cstring>
 #include <atomic>
 
 #if defined(__x86_64__) || defined(__amd64__) || defined(__i386__)
